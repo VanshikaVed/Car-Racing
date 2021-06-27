@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(242, 91, 172);
+    text-align: center;
+}
+
+#title{
+    font-size: xx-large;
+    background-color: whitesmoke;
+    color: deeppink;
+margin-top: 10px;
+padding-top: 4px;;
+
+}
+
+
+canvas{
+    background-color: white;
+border: 3px solid black;
+}
+
+p{
+    font-size: 21px;
+}
+
+li{
+    font-size: 20px;
+}
